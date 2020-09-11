@@ -1,4 +1,4 @@
-# Extensions Views Management
+# Extensions AirDViewsManagement
 
 1. Introduction
 
