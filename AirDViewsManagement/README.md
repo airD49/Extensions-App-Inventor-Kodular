@@ -16,125 +16,67 @@ Version 1
 
 None
 
+
 3. Blocks
-https://user-images.githubusercontent.com/64545586/92897401-7311d980-f41d-11ea-9371-f6daa27ad2bb.JPG
+![whenopen](https://user-images.githubusercontent.com/64545586/92897401-7311d980-f41d-11ea-9371-f6daa27ad2bb.JPG)
 
-whenpreview
-100%
-75%
-50%
+![whenpreview](https://user-images.githubusercontent.com/64545586/92897402-7311d980-f41d-11ea-8afc-30e44d2e5172.JPG)
 
-add
-100%
-75%
-50%
+![add](https://user-images.githubusercontent.com/64545586/92897380-71481600-f41d-11ea-8e69-242377ad6762.JPG)
 
-clearhistory
-100%
-75%
-50%
+![clearhistory](https://user-images.githubusercontent.com/64545586/92897386-71481600-f41d-11ea-9187-6f78283d81dc.JPG)
 
-closeall
-100%
-75%
-50%
+![closeall](https://user-images.githubusercontent.com/64545586/92897388-71e0ac80-f41d-11ea-83af-55705bbc496a.JPG)
 
-countHistory
-100%
-75%
-50%
- initialise
-100%
-75%
-50%
- isopen
-100%
-75%
-50%
- openn
-100%
-75%
-50%
- preview
-100%
-75%
-50%
+![countHistory](https://user-images.githubusercontent.com/64545586/92897389-71e0ac80-f41d-11ea-8c45-59116ece49cf.JPG)
+
+![initialise](https://user-images.githubusercontent.com/64545586/92897391-72794300-f41d-11ea-88ec-80e69061079c.JPG)
+
+![isopen](https://user-images.githubusercontent.com/64545586/92897393-72794300-f41d-11ea-882a-77c325408e36.JPG)
+
+![openn](https://user-images.githubusercontent.com/64545586/92897397-72794300-f41d-11ea-97d6-5b10c10b5ce2.JPG)
+
+![preview](https://user-images.githubusercontent.com/64545586/92897400-7311d980-f41d-11ea-9194-38849dfe51f2.JPG)
+
 
 4. Documentation
 4.1 Events
 
-whenopen
-100%
-75%
-50%
-
+![whenopen](https://user-images.githubusercontent.com/64545586/92897401-7311d980-f41d-11ea-9371-f6daa27ad2bb.JPG)
 Triggered when the method Open is started
 
-whenpreview
-100%
-75%
-50%
-
+![whenpreview](https://user-images.githubusercontent.com/64545586/92897402-7311d980-f41d-11ea-8afc-30e44d2e5172.JPG)
 Triggered when the method Previous is started
 
-4.2 Methods
-add
-100%
-75%
-50%
 
+4.2 Methods
+
+![add](https://user-images.githubusercontent.com/64545586/92897380-71481600-f41d-11ea-8e69-242377ad6762.JPG)
 Insert view(s) into the list of views. You can put a list of view or just one view.
 
-clearhistory
-100%
-75%
-50%
-
+![clearhistory](https://user-images.githubusercontent.com/64545586/92897386-71481600-f41d-11ea-9187-6f78283d81dc.JPG)
 Empty history
 
-closeall
-100%
-75%
-50%
-
+![closeall](https://user-images.githubusercontent.com/64545586/92897388-71e0ac80-f41d-11ea-83af-55705bbc496a.JPG)
 Close all views initialized in the listView.
 
-countHistory
-100%
-75%
-50%
-
+![countHistory](https://user-images.githubusercontent.com/64545586/92897389-71e0ac80-f41d-11ea-8c45-59116ece49cf.JPG)
 Return the number of “pages” in the history.
 
-initialise
-100%
-75%
-50%
-
+![initialise](https://user-images.githubusercontent.com/64545586/92897391-72794300-f41d-11ea-88ec-80e69061079c.JPG)
 Mandatory method before using other methods.
 You can put a list of views or just one view.
 
-isopen
-100%
-75%
-50%
-
+![isopen](https://user-images.githubusercontent.com/64545586/92897393-72794300-f41d-11ea-882a-77c325408e36.JPG)
 Return true or false.
 You can test a view, a list of views, or even a position in the listView.
 
-openn
-100%
-75%
-50%
-
+![openn](https://user-images.githubusercontent.com/64545586/92897397-72794300-f41d-11ea-97d6-5b10c10b5ce2.JPG)
 Open a view, a list of views, a group of views according to its position in the listView.
 
-preview
-100%
-75%
-50%
-
+![preview](https://user-images.githubusercontent.com/64545586/92897400-7311d980-f41d-11ea-9194-38849dfe51f2.JPG)
 Opens the previously opened view(s), depending on the history.
+
 
 5. Downloads
 GITHUB
