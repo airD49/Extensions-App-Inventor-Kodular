@@ -78,9 +78,5 @@ Open a view, a list of views, a group of views according to its position in the 
 Opens the previously opened view(s), depending on the history.
 
 
-5. Downloads
-GITHUB
-AIX
-APK
 
 Translated from French
